@@ -47,7 +47,7 @@ git clone https://github.com/Dark-Cyber-07/SH-PAK-08
 ## Tools Run :
 ```
 ls && cd SH-PAK-08 && ls
-python2 sh-pk.py 
+python2 sh-pak.py 
 ```
 
 *   USERNAME: FUCK LLL
